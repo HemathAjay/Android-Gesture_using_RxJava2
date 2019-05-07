@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GitPrivate/2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitPrivate/WS_Andorid-SwipeRefreshLayout_TOP_BOTTOM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitPrivate/WS_Android-JustifiedTextView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitPrivate/WS_Android-LifeCycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitPrivate/WS_Github_PowerShell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WS_ANDROID/Android_Explicit_Intents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WS_JAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WS_SQL" vcs="Git" />
+  </component>
+</project>
